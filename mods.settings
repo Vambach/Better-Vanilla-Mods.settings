@@ -1,0 +1,526 @@
+;Script Merger's
+[mod0000_MergedFiles]
+Enabled=1
+Priority=0
+
+;<Compilations of Fixes> [2000+]
+;Community Patch - Menu Strings
+[modMenuStrings]
+Enabled=1
+Priority=2005
+;Brothers In Arms - TW3 Ultimate Bug Fix Collaboration
+[modBugFix__MasterCollection01]
+Enabled=1
+Priority=2010
+;+
+[modBugFix__MasterCollection01Scripts]
+Enabled=1
+Priority=2015
+;+
+[modBugFix__MasterCollection01xml]
+Enabled=1
+Priority=2020
+;Community Patch - Besserwisser's Fix Collection
+[modZBesserwisserScripts]
+Enabled=1
+Priority=2025
+;+
+[modZzBesserwisser2]
+Enabled=1
+Priority=2030
+;LOD Bug Fix collection
+[modBugFix]	
+Enabled=1
+Priority=2035
+;Russian Localization Fixes
+[modRussianLocFixes]
+Enabled=1
+Priority=2040
+;Grammar of the Path
+[modZ_GrammarOfThePath]
+Enabled=1
+Priority=2045
+
+;<Other Fixes> [1500-2000]
+;Harbor Names Restored
+[modHarborNamesRestored]
+Enabled=1
+Priority=1505
+;Witcher Lore Collection
+[modWitcherLoreCollection]
+Enabled=1
+Priority=1510
+;Gwent restoring... rewritten
+[modGwentRestoreRewritten]
+Enabled=1
+Priority=1515
+;Toxicity Decoction Critical Fix
+[modToxicityDecotionCritFix_FacesScreenSkullOnThreshold]
+Enabled=1
+Priority=1520
+;Dynamic Wet Face
+[modgeraltwetface_lite]
+Enabled=1
+Priority=1525
+;Olgierd Mansion Shading Fix
+[modOlgierdMansionFix]
+Enabled=1
+Priority=1530
+;No More Rolling Down Stairs
+[modNoStairRolling]
+Enabled=1
+Priority=1535
+;Domination
+[modDomination]
+Enabled=1
+Priority=1540
+;Hunter Instinct Skill Patch
+[modHunterInstinctPatch]
+Enabled=1
+Priority=1545
+;Fix Stuck Quest Items	
+[modFixStuckQuestItems]
+Enabled=1
+Priority=1550
+;Low XP from Some Quests Fix
+[modQuestLevelsChange]
+Enabled=1
+Priority=1555
+;DLC Armor stats hair pants and glyph slots fixes
+[modDLCArmourFixes]
+Enabled=1
+Priority=1560
+;Item Selection Grid Fix
+[modItemSelectionGridFix]
+Enabled=1
+Priority=1565
+;Fast Stash Menu
+[modFastStashMenu]
+Enabled=1
+Priority=1570
+;Cyclops Eye Texture Fix
+[modCyclopEyeGreen]
+Enabled=1
+Priority=1575
+;HDRP Bug Fix for Toussaint Bandits' Invisible Arm	!Must be over HDRP
+[mod_HDRPBugFixes]
+Enabled=1
+Priority=1	
+;Fix person in distress
+[modFixPersonInDistress]
+Enabled=1
+Priority=1580
+;Mane and Tail Fixes
+[modManeTailFix]
+Enabled=1
+Priority=1585
+
+;<User Interface> [50-100]
+;Vladimir UI
+[modVladimirUI]
+Enabled=1
+Priority=55
+;+
+[modVladimirUI_maps]
+Enabled=1
+Priority=60
+;Infinite item Stacking
+[modstacks]
+Enabled=1
+Priority=65
+;Kill Count
+[modKillCount]
+Enabled=1
+Priority=70
+;Open menu during dialogues and cutscenes	
+[modOpenMenuDuringDialoguesAndCutscenes]
+Enabled=1
+Priority=75
+;Disable storybook videos
+[modnostory]
+Enabled=1
+Priority=80
+
+;<Lighting> [100-150]
+;Wiedzmin Lighting Mod
+[modWLM_Phoenix_VIII]
+Enabled=1
+Priority=105
+;Natural Torchlight
+[modNaturalTorchlight]
+Enabled=1
+Priority=110
+;Disable Fake Lights in All Quest
+[modQuestEditCamLight]
+Enabled=1
+Priority=115
+
+;<Textures and Models> [150-400]
+;HDAR - HD Animals Reworked
+[modHDAnimalsReworked]
+Enabled=1
+Priority=155
+;HD Horse Accessories
+[modHDHorseAccessories]
+Enabled=1
+Priority=160
+;HDMR - HD Monsters Reworked mod
+[modMonsterpack]
+Enabled=1
+Priority=165
+;+
+[modHDMonstersReworked]
+Enabled=1
+Priority=170
+;HD Reworked Project
+[modHDReworkedProject]
+Enabled=1
+Priority=175
+;+
+[modHDReworkedProject2]
+Enabled=1
+Priority=180
+;+
+[modHDReworkedProject3]
+Enabled=1
+Priority=185
+;+
+[modHDReworkedProject4]
+Enabled=1
+Priority=190
+;Lore-friendly Silver Swords
+[modLfSS_20a]
+Enabled=1
+Priority=195
+;Realistic Weather
+[modRealWeather]
+Enabled=1
+Priority=200
+;Beautiful Grass Mod V3
+[mod2kGrassTextures]
+Enabled=1
+Priority=205
+;Brutal Blood
+[modBrutalBlood]
+Enabled=1
+Priority=210
+;Brutal Face Update
+[modBrutalFaceV6]
+Enabled=1
+Priority=215
+;HairWorks Beard Fix
+[modgrowinglongbeardV2]
+Enabled=1
+Priority=220
+;+
+[modBeardsColourBlend]
+Enabled=1
+Priority=225
+;+ mod from Nexus' POSTS section
+[modDhwEqualColors]
+Enabled=1
+Priority=230
+;Witchers (Brutal Face Addon)
+[modTheWitchersV5]
+Enabled=1
+Priority=235
+;Crach Fur Hairworks
+[mod_CrachRedFur]
+Enabled=1
+Priority=240
+;Better Skin - Pore Retexture
+[modZhoken_pore]
+Enabled=1
+Priority=245
+;PEEPERS
+[modPEEPERS]
+Enabled=1
+Priority=250
+;AQUA
+[modAQUA]
+Enabled=1
+Priority=255
+;SPLASH
+[modSPLASH]
+Enabled=1
+Priority=260
+;CLOUDS
+[modCLOUDS]
+Enabled=1
+Priority=265
+;No Dirty Lens Effect
+[modNoDirtyLensEffect]
+Enabled=1
+Priority=270
+;Dhu's Roach
+[modDhusRoach]
+Enabled=1
+Priority=275
+;+
+[modHeyImRusty]
+Enabled=1
+Priority=280
+;Rustic Pines
+[modRusticPines]
+Enabled=1
+Priority=285
+;Darker Generic Trees and Bushes
+[modDarkerGenericTreesAndBushesWarmer]
+Enabled=1
+Priority=290
+;Window Glass Distortion Fix
+[modWindowGlassDistortionFix]
+Enabled=1
+Priority=295
+;+
+[modWindowGlassDistortionFix_Toussaint]
+Enabled=1
+Priority=300
+;Dandelion Purple Suit	
+[modDandelionPurpleSuit]
+Enabled=1
+Priority=305
+;~Book Yennefer's wild and curly hair - Reworked -
+[modYEN_hair_Wild_n_Curly_bedhead]
+Enabled=1
+Priority=310
+;Witcher's Knife
+[modHunterKnife]
+Enabled=1
+Priority=315
+
+;<Immersion> [400-500]
+;All NPC Scabbards 1.22 including DLC
+[modScabbards]
+Enabled=1
+Priority=9999
+;Dirty NPC Scabbards
+[modDirtyNPCScabbards]
+Enabled=1
+Priority=410
+;Faction Appearance Project
+[modFactionAppearanceProject]
+Enabled=1
+Priority=415
+;Immersive Sound
+[modImmersiveSound]
+Enabled=1
+Priority=420
+;Volumetric clouds over Skellige
+[modVolumetricClouds1_31]
+Enabled=1
+Priority=425
+;Skellige Ice Breath
+[modIceBreath]
+Enabled=1
+Priority=430
+;E3 2013 Skellige Boats
+[mod_vgxdrakkars]
+Enabled=1
+Priority=435
+;Lamp on Player's boat
+[modLamponboatCityLight]
+Enabled=1
+Priority=440
+;No More Glowing
+[modNMGUpdate]
+Enabled=1
+Priority=445
+;New Lightning Effect
+[modNewLightningEffect]
+Enabled=1
+Priority=450
+;Peasant Pants
+[modPeasantPantsDirtyGrey]
+Enabled=1
+Priority=455
+;Slower Gametime 1.31 GoG GotY
+[modSlowerTimeflow]
+Enabled=1
+Priority=460
+;Immersive Cam
+[modImmersiveCam]
+Enabled=1
+Priority=465
+
+;Balance [500-600]
+;UPDATE Better Experience Curve
+[modUrsine]
+Enabled=1
+Priority=505
+;Monsters Come Out At Night	
+[modNoRandomDaytimeEncounters]
+Enabled=1
+Priority=510
+;Improved Mutations
+[modImprovedMutagens]
+Enabled=1
+Priority=515
+;Better Runes
+[modBetterRunes]
+Enabled=1
+Priority=520
+;Enhanced Trophies
+[modCREnhancedTrophies]
+Enabled=1
+Priority=525
+;Beatable Guards
+[modHardandBeatableGuards]
+Enabled=1
+Priority=530
+;Grindstone and Workbench Charges	
+[modGrindstoneAndWorkbenchCharges]
+Enabled=1
+Priority=535
+;True Haggling
+[modTrueHaggling]
+Enabled=1
+Priority=540
+;Master Mirrors Game Time Limit Extender
+[modmirmirrorgamelonger]
+Enabled=1
+Priority=545
+;Cave Troll Liver Solution
+[modCTLReplacement]
+Enabled=1
+Priority=550
+
+;<Combat> [600-700]
+;E3DodgeSystem
+[modSwordplay]
+Enabled=1
+Priority=605
+;Master Training
+[modD001_MasterTraining]
+Enabled=1
+Priority=610
+;Combat Speed Mod - Faster or Slower Animations
+[modCombatSpeed]
+Enabled=1
+Priority=615
+;Speed Force
+[modSpeedForce]
+Enabled=1
+Priority=620
+;Stronger Crossbow Bolts
+[modStBolts]
+Enabled=1
+Priority=625
+;EK Combat Jump
+[modEKCombatJump]
+Enabled=1
+Priority=630
+;No unsheathing on horseback
+[modHorseSheathing]
+Enabled=1
+Priority=635
+
+;<Controls> [700-750]
+;Manual Bomb Aiming
+[modBombAiming]
+Enabled=1
+Priority=705
+;NPCs do not collide with Geralt when he is walking
+[modLessIndignantNPCs]
+Enabled=1
+Priority=710
+;LIT - Lumen Igni Totus
+[mod_LIT]
+Enabled=1
+Priority=715
+;Alternate Lightsources Interaction
+[modAlternateLSInteraction]
+Enabled=1
+Priority=720
+
+;<Alchemy and Crafting> [750-800]
+;Item Stock on Crafting Screen
+[modShowQuantityForCrafting]
+Enabled=1
+Priority=755
+;Component Part Stock on Dismantle Screen
+[modShowDisassemblingPartsQuantity]
+Enabled=1
+Priority=760
+;Keep runewords on Witcher set gear upgrade
+[modKeepRunewords]
+Enabled=1
+Priority=765
+
+;<Roach> [800-850]
+;RDR Horse Controls
+[modRDRHorseControls]
+Enabled=1
+Priority=805
+;Manual Trophy Equip
+[modManualTrophyEquip]
+Enabled=1
+Priority=810
+
+;<Gwent> [850-900]
+;No time for Gwent
+[modNoTimeForGwent]
+Enabled=1
+Priority=855
+;Worthwhile Gwent
+[modWorthwhileGwent]
+Enabled=1
+Priority=860
+;The Gwent Card Dealer
+[modGwentCardDealer_NoQuestCards]
+Enabled=0
+Priority=865
+;Gwent - Triss Card Scorch ability
+[modTrissCardScorch]
+Enabled=1
+Priority=870
+;Missing Gwent Cards Tracker mod
+[modMissingCardTracker]
+Enabled=1
+Priority=875
+
+;<Armor> [900-950]
+;Professional Gear
+[mod_Professional_Gear_Dress_Fix]
+Enabled=1
+Priority=905
+;Killing Monsters Arm Pads
+[modStartingArmorFloppaShoulders]
+Enabled=1
+Priority=910
+;+
+[modViperKMPadsMesh]
+Enabled=1
+Priority=915
+
+;<Items> [950-1000]
+;Hoods
+[mod__hoods]
+Enabled=1
+Priority=955
+;Auto Hide Weapons for Cloaks
+[mod_AHW]
+Enabled=1
+Priority=960
+;Starting gear changed to Witcher tier	
+[modstartinggearwitcher]
+Enabled=1
+Priority=965
+;Smart Alcohol Refill Selection (most owned)
+[modSmartAlcoholRefill]
+Enabled=1
+Priority=970
+
+;<<MISCELLANEOUS>>	[1000-1500]
+;Door Unlocker
+[modDoorUnlocker]
+Enabled=1
+Priority=1005
+;QuickLoad
+[modQuickLoadMS]
+Enabled=1
+Priority=1010
+;Clear Crap Weapons from Merchants
+[modClearCrapWeaponsFromMerchants]
+Enabled=1
+Priority=1015
