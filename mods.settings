@@ -195,7 +195,7 @@ Priority=195
 ;Realistic Weather
 [modRealWeather]
 Enabled=1
-Priority=200
+Priority=100
 ;Beautiful Grass Mod V3
 [mod2kGrassTextures]
 Enabled=1
