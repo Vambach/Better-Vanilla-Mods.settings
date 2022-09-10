@@ -468,7 +468,7 @@ Enabled=1
 Priority=860
 ;The Gwent Card Dealer
 [modGwentCardDealer_NoQuestCards]
-Enabled=0
+Enabled=1
 Priority=865
 ;Gwent - Triss Card Scorch ability
 [modTrissCardScorch]
